@@ -1577,7 +1577,7 @@ blockquot {
 	border-radius: 0;
 	padding: 0;
 	line-height: 49px;
-	width: 200px;
+	width: 170px;
 	height: 51px;
 }
 
@@ -1938,7 +1938,7 @@ blockquot {
 @media only screen and (min-width: 320px) and (max-width: 767px) {
 
 .btn:not(.btn--lg) {
-	width: 140px;
+	width: 200px;
 }
 }
 
